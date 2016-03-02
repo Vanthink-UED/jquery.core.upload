@@ -1,0 +1,22 @@
+{
+  "name": "jquery.core.upload",
+  "version": "1.0.1",
+  "description": "a jQuery plugin for uploading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vanthink-UED/jquery.core.upload.git"
+  },
+  "keywords": [
+    "upload"
+  ],
+  "author": "Jack Pu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vanthink-UED/jquery.core.upload/issues"
+  },
+  "homepage": "https://github.com/Vanthink-UED/jquery.core.upload"
+}
