@@ -30,3 +30,5 @@ $(.btn).CoreUpload({
 
 
 ```
+
+[Angular Version](https://github.com/Vanthink-UED/angular.core.upload)
