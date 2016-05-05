@@ -179,15 +179,9 @@
 
                         },
                         onComplete: function(response) {
-                            response = JSON.parse(response);
                             $loading.remove();
                             $loading = '';
-                            if(response.errno == '0'){
-                                Options.uploadedCallback(response);
-                            }else{
-                                alert(response.errmsg);
-                                Options.uploadedCallback(response);
-                            }
+                            Options.uploadedCallback(response);
 
 
                         },
